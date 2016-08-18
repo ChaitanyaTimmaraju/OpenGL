@@ -1,0 +1,12 @@
+﻿  Main.cpp
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(132): warning C4101: 'lightVAO': unreferenced local variable
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(239): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(240): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(244): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(247): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(248): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl\gitproject\conservativerasterization\conservativerasterization\main.cpp(256): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  ConservativeRasterization.vcxproj -> D:\OPENGL\GitProject\ConservativeRasterization\Debug\ConservativeRasterization.exe
+  ConservativeRasterization.vcxproj -> D:\OPENGL\GitProject\ConservativeRasterization\Debug\ConservativeRasterization.pdb (Partial PDB)
